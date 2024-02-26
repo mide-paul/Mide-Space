@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "StoryCreate_Mobile_App",
+    "slug": "StoryCreate_Mobile_App"
+  }
+}
